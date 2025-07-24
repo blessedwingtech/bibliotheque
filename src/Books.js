@@ -40,12 +40,12 @@ const books = [
     title: "Le Rouge et le Noir",
     author: {
       name: "Stendhal",
-      image: "https://via.placeholder.com/50",
+      image: "https://i.ebayimg.com/images/g/BZ0AAeSwSsxodOEX/s-l960.webp",
       bio: "Auteur français du 19ème siècle..."
     },
     description: "L'histoire d'un jeune homme ambitieux...",
     category: "Classique",
-    image: "https://via.placeholder.com/150"
+    image: "https://i.ebayimg.com/images/g/BZ0AAeSwSsxodOEX/s-l960.webp"
   },
   {
     id: 5,
