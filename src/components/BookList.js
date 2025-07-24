@@ -4,8 +4,6 @@ import books from "../Books";
 
 //Auteur : Sandlie pierre
 
- // src/components/BookList.js import React from "react"; import booksData from "../data/books";
-
 const BookList = () => { 
   return ( 
   <div className="container"> 
